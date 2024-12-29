@@ -1,2 +1,2 @@
-# mahjongtengoku
-This is the beginning of mahjong heaven!
+# Mahjong Tengoku
+This is the beginning of Mahjong heaven!
